@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32804.467
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H5_MQTTNet.Console", "H5_MQTTNet.Console\H5_MQTTNet.Console.csproj", "{D990A930-0323-4CC0-938D-A48B97A6A048}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H5_MQTTNet.RestApi", "H5_MQTTNet.RestApi\H5_MQTTNet.RestApi.csproj", "{069BB9F1-867E-4F5F-B3F0-B0E0F9CB893E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D990A930-0323-4CC0-938D-A48B97A6A048}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D990A930-0323-4CC0-938D-A48B97A6A048}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D990A930-0323-4CC0-938D-A48B97A6A048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{069BB9F1-867E-4F5F-B3F0-B0E0F9CB893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{069BB9F1-867E-4F5F-B3F0-B0E0F9CB893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{069BB9F1-867E-4F5F-B3F0-B0E0F9CB893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{069BB9F1-867E-4F5F-B3F0-B0E0F9CB893E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
